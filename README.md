@@ -13,7 +13,3 @@ I am currently working on two projects:<br>The first one is related to transport
 ![](https://github-readme-stats.vercel.app/api?username=Oliveap1986&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Oliveap1986&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveap1986&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Oliveap1986&icon=0&color=0)](https://visitcount.itsvg.in)
-
